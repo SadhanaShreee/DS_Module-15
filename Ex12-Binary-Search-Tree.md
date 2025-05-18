@@ -1,5 +1,5 @@
 # Ex12 Binary Search Tree
-## DATE:
+## DATE: 22-03-2025
 ## AIM:
 To write a C function to insert the elements in the binary search tree
 
@@ -43,6 +43,7 @@ struct node* insert(struct node* node, int key) {
 
 ## Output:
 
+![Screenshot 2025-05-18 123107](https://github.com/user-attachments/assets/34f59345-1fe8-445f-823f-9ca82a62203a)
 
 
 ## Result:
