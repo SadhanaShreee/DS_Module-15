@@ -1,5 +1,5 @@
 # Ex15 Largest Element in BST
-## DATE:
+## DATE: 26-=03-2025
 ## AIM:
 To Write a c program to find the largest value in a Binary Search Tree.
 
@@ -75,6 +75,7 @@ int main() {
 
 ## Output:
 
+![Screenshot 2025-05-18 123907](https://github.com/user-attachments/assets/6ae2656e-bc5a-4cc1-a29a-707552ec0505)
 
 
 ## Result:
