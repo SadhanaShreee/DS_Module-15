@@ -1,5 +1,5 @@
 # Ex13 Expression Tree
-## DATE:
+## DATE: 24-03-2025
 ## AIM:
 To write a C function to construct an Expression Tree for the given Postfix Expression and display the output in the format of In-order ,Pre-order and Post-order traversal.
 
@@ -54,6 +54,7 @@ void postOrder(struct n *tree) {
 
 ## Output:
 
+![Screenshot 2025-05-18 123317](https://github.com/user-attachments/assets/a83fe8be-9429-4fee-ad0c-801dfb0f710d)
 
 
 ## Result:
