@@ -24,7 +24,7 @@ struct node
 {
 int value;
 struct node *left_child, *right_child;
-};*/
+};
 void display_postorder(struct node *root_node) {
 
     if(root_node){
@@ -38,6 +38,7 @@ void display_postorder(struct node *root_node) {
 
 ## Output:
 
+![Screenshot 2025-05-18 122721](https://github.com/user-attachments/assets/c8b94ec8-805f-4386-b1d7-447a15c7e2b7)
 
 
 ## Result:
